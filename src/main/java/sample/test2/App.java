@@ -15,7 +15,7 @@ public class App
 	
     public static void main( String[] args )
     {
-    	logger.error("test2");
+    	logger.error("test");
         System.out.println( "Hello World!" );
         logger.error("Logger is working Correctly");
     }
